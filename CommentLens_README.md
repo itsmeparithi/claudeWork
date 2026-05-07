@@ -3,7 +3,7 @@
 > **Turn comment sections from noise into signal.**
 > CommentLens automatically categorizes every comment by sentiment and presents them in clean, navigable tabs — entirely in your browser. No data ever leaves your device.
 
-![CommentLens Architecture](commentlens_architecture_v4.png)
+![CommentLens Architecture](commentlens_architecture.png)
 
 ---
 
